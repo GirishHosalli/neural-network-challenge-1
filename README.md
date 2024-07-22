@@ -8,7 +8,8 @@ Compile and fit the model using the *'binary_crossentropy'* loss function, the *
 Then model was evaluated using the test data to determine the model’s loss and accuracy with the following results:  
 *Loss: 0.52168869972229, Accuracy: 0.7749999761581421*  
 
-Then model was exported to a keras file and saved to local drive. Make predictions on the testing data and save the predictions to a DataFrame and round the predictions to binary results.  
+Then model was exported to a keras file and saved to local drive. Then predictions made on the testing data and save the predictions to a DataFrame and round the predictions to binary results.  
+
 Finally display a classification report with the y test data and predictions.  
 ![alt text](image.png)
 
